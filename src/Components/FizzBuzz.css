@@ -1,0 +1,42 @@
+body{
+    background-color:black;
+}
+.outer{
+    text-align: center;
+    text-decoration: underline;
+    
+}
+form{
+    text-align: center;
+    padding: 0.5% 5%;
+   margin-top: 3%;
+}
+
+input, button{
+    padding: 0.3% 1%;
+    font-size: 150%;
+    background-color: yellowgreen;
+    border-radius: 10px;
+}
+.wrapper{
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 1% 0;
+    border: 1px solid none;
+    background-color: none;
+    width: 70%;
+    margin: auto;
+   
+
+}
+
+h3{
+    text-align: center;
+    border: 1px solid black;
+    width:10%;
+    padding: 0.5%;
+    margin:1% 1% 0% 2%;
+    border-radius: 10px;
+}
