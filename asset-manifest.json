@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FizzBuzz/static/css/main.4a0f2a56.chunk.css",
+    "main.js": "/FizzBuzz/static/js/main.c83545db.chunk.js",
+    "main.js.map": "/FizzBuzz/static/js/main.c83545db.chunk.js.map",
+    "runtime-main.js": "/FizzBuzz/static/js/runtime-main.8b395f26.js",
+    "runtime-main.js.map": "/FizzBuzz/static/js/runtime-main.8b395f26.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/FizzBuzz/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.5f340476.chunk.js": "/FizzBuzz/static/js/2.5f340476.chunk.js",
+    "static/js/2.5f340476.chunk.js.map": "/FizzBuzz/static/js/2.5f340476.chunk.js.map",
+    "index.html": "/FizzBuzz/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/FizzBuzz/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.4a0f2a56.chunk.css.map": "/FizzBuzz/static/css/main.4a0f2a56.chunk.css.map",
+    "static/js/2.5f340476.chunk.js.LICENSE.txt": "/FizzBuzz/static/js/2.5f340476.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b395f26.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.5f340476.chunk.js",
+    "static/css/main.4a0f2a56.chunk.css",
+    "static/js/main.c83545db.chunk.js"
+  ]
+}
